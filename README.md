@@ -67,4 +67,5 @@ Somos un grupo de alumnos de la E.E.S.T. N°7 "Taller Regional Quilmes (IMPA)
 * 📧 Samp.e.impatrq@gmail.com
 
 
-<img src= https://github.com/impatrq/samp.e/blob/main/FERIA%20DE%20CIENCIAS%202024/GRUPO%20DIA%20DE%20LA%20FERIA%2022-11.JPG
+<img src= https://github.com/impatrq/samp.e/blob/main/FERIA%20DE%20CIENCIAS%202024/GRUPO%20DIA%20DE%20LA%20FERIA%2022-11.JPG/>
+
