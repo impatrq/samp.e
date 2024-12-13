@@ -41,6 +41,14 @@ Somos un grupo de alumnos de la E.E.S.T. N°7 "Taller Regional Quilmes (IMPA)
   
 * 📧 romanalejo26@gmail.com
 
+ ### Maximiliano Agustin Pavlovich
+* 📷 [Instagram](https://www.instagram.com/maxiis.1/)
+
+* 📧pavlovichmaxi28@gmail.com
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/maxipavlovich/)
+
+
 ### Oliverio Diaz
 * 📷 [Instagram](https://www.instagram.com/olidiazz_/) 
 
@@ -53,13 +61,6 @@ Somos un grupo de alumnos de la E.E.S.T. N°7 "Taller Regional Quilmes (IMPA)
 
 * 📧 cesarmorenov17@gmail.com
 
-### Maximiliano Agustin Pavlovich
-* 📷 [Instagram](https://www.instagram.com/maxiis.1/)
-
-* 📧pavlovichmaxi28@gmail.com
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/maxipavlovich/)
-
 ## Contactanos
 
 * 📷 [Instagram](https://www.instagram.com/samp.e_/)
@@ -67,7 +68,7 @@ Somos un grupo de alumnos de la E.E.S.T. N°7 "Taller Regional Quilmes (IMPA)
 * 📧 Samp.e.impatrq@gmail.com
 
 
-<img src= https://github.com/impatrq/samp.e/blob/main/FERIA%20DE%20CIENCIAS%202024/GRUPO%20DIA%20DE%20LA%20FERIA%2022-11.JPG/>
+<img src= https://github.com/impatrq/samp.e/blob/main/Feria%20De%20%Ciencias%202024/GRUPO%20DIA%20DE%20LA%20FERIA%2022-11.JPG/>
 
 ## Agradecimientos Especiales
 
@@ -85,7 +86,7 @@ Apreciamos profundamente su compromiso con nuestra causa y la confianza deposita
  quedamos agradecidos con todo lo que nos proporcionaron a lo largo del año.
 
 <div align="center">
- <img src= https://github.com/impatrq/samp.e/blob/main/DOCUMENTACI%C3%93N/INSUMOS%20COOPERADORA/cooperadora.jpg />
+ <img src= https://https://https://github.com/impatrq/samp.e/blob/main/Baterias/Documentacion%20Baterias/molinaro.jpg />
  </div>
 
  ## MUCHAS GRACIAS A TODOS.
