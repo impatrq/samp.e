@@ -69,3 +69,23 @@ Somos un grupo de alumnos de la E.E.S.T. N°7 "Taller Regional Quilmes (IMPA)
 
 <img src= https://github.com/impatrq/samp.e/blob/main/FERIA%20DE%20CIENCIAS%202024/GRUPO%20DIA%20DE%20LA%20FERIA%2022-11.JPG/>
 
+## Agradecimientos Especiales
+
+Esta parte también es para darle nuestro más sincero agradecimiento a Molinaro por su generosa donación de dos baterías de 12V 180AMP. Su apoyo contribuirá enormemente tanto          
+para el Samp-E y para la Escuela;
+Apreciamos profundamente su compromiso con nuestra causa y la confianza depositada en nosotros.
+
+ <div align="center">
+ <img src= https://github.com/impatrq/samp.e/blob/main/BATERIAS/DOCUMENTACION%20BATERIAS/molinaro.jpg />
+ </div>
+
+ ## COOPERADORA
+
+ Pero sobre todo no nos olvidamos de todo apoyo que nos presto la cooperadora de la institución ya que sin nada del material entregado el proyecto no se hubiera podido concretar, 
+ quedamos agradecidos con todo lo que nos proporcionaron a lo largo del año.
+
+<div align="center">
+ <img src= https://github.com/impatrq/samp.e/blob/main/DOCUMENTACI%C3%93N/INSUMOS%20COOPERADORA/cooperadora.jpg />
+ </div>
+
+ ## MUCHAS GRACIAS A TODOS.
