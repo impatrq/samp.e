@@ -86,7 +86,7 @@ Apreciamos profundamente su compromiso con nuestra causa y la confianza deposita
  quedamos agradecidos con todo lo que nos proporcionaron a lo largo del año.
 
 <div align="center">
- <img src= https://https://https://github.com/impatrq/samp.e/blob/main/Baterias/Documentacion%20Baterias/molinaro.jpg />
+ <img src= https://github.com/impatrq/samp.e/blob/main/Documentacion/Insumos%20Cooperadora/cooperadora.jpg />
  </div>
 
  ## MUCHAS GRACIAS A TODOS.
