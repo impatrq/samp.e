@@ -77,7 +77,7 @@ para el Samp-E y para la Escuela;
 Apreciamos profundamente su compromiso con nuestra causa y la confianza depositada en nosotros.
 
  <div align="center">
- <img src= https://github.com/impatrq/samp.e/blob/main/BATERIAS/DOCUMENTACION%20BATERIAS/molinaro.jpg />
+ <img src= https://github.com/impatrq/samp.e/blob/main/Baterias/Documentacion%20Baterias/molinaro.jpg />
  </div>
 
  ## COOPERADORA
